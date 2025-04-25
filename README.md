@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Shlok Verma</h1>
-<h3 align="center">🎓 Computer Science Engineer | 💻 Python & Flask Developer | 🤖 AI/ML Enthusiast | 📍 Bangalore | 🛠️ Building, Learning, and Sharing Tech Projects</h3>
+<h3 align="center">🎓 Computer Science Engineer | 💻 Python & Flask Developer | 🤖 AI/ML Enthusiast |   📍 Bangalore | 🛠️ Building, Learning, and Sharing Tech Projects</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shlokverma1&label=Profile%20views&color=0e75b6&style=flat" alt="shlokverma1" /> </p>
 
@@ -60,7 +60,7 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" /><br>Python
     </td>
     <td align="center" width="80">
-      <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40" height="40" alt="Flask" /><br>Flask
+      <img src="hhttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmD38KsMgEwahtWc_Nfs5ZVktP9dBc36MUZA&s" width="40" height="40" alt="Flask" /><br>Flask
     </td>
     <td align="center" width="80">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C" /><br>C
