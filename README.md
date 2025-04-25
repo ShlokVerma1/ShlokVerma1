@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shlok Verma</h1>
+<h1 align="center">Hi, I'm Shlok Verma</h1>
 <h3 align="center">🎓 Computer Science Engineer | 💻 Python & Flask Developer | 🤖 AI/ML Enthusiast | 📍 Bangalore | 🛠️ Building, Learning, and Sharing Tech Projects</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shlokverma1&label=Profile%20views&color=0e75b6&style=flat" alt="shlokverma1" /> </p>
