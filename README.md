@@ -60,8 +60,9 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" /><br>Python
     </td>
     <td align="center" width="80">
-      <img src="hhttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmD38KsMgEwahtWc_Nfs5ZVktP9dBc36MUZA&s" width="40" height="40" alt="Flask" /><br>Flask
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" width="40" height="40" alt="Flask" /><br>Flask
     </td>
+
     <td align="center" width="80">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C" /><br>C
     </td>
