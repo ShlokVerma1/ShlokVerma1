@@ -62,7 +62,6 @@
     <td align="center" width="80">
       <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" width="40" height="40" alt="Flask" /><br>Flask
     </td>
-
     <td align="center" width="80">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C" /><br>C
     </td>
