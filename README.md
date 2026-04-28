@@ -89,15 +89,14 @@ Highly technical **Full-Stack Developer and AI Engineer** specializing in buildi
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 Engineering Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shlokverma1&show_icons=true&locale=en&layout=compact&theme=oceanic&border_radius=10" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shlokverma1&show_icons=true&locale=en&layout=compact&theme=oceanic&border_radius=10&cache_seconds=86400" alt="Top Languages" />
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shlokverma1&show_icons=true&locale=en&theme=oceanic&border_radius=10" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=shlokverma1&theme=oceanic&border_radius=10" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shlokverma1&theme=oceanic&bg_color=112233&hide_border=true&radius=10" alt="Activity Graph" width="100%" />
 </div>
 
 ---
