@@ -1,122 +1,106 @@
-<h1 align="center">Hi, I'm Shlok Verma</h1>
-<h3 align="center">🎓 Computer Science Engineer | 💻 Python & Flask Developer | 🤖 AI/ML Enthusiast | 🛠️ Building, Learning, and Sharing Tech Projects</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&height=50&lines=Hi,+I'm+Shlok+Verma;Full-Stack+Developer;AI+/+ML+Engineer;Crafting+Production-Ready+Solutions" alt="Typing SVG" />
+</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shlokverma1&label=Profile%20views&color=0e75b6&style=flat" alt="shlokverma1" /> </p>
+<h3 align="center">Backend Specialist (Python/Flask) & AI Systems Engineer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shlokverma1" alt="shlokverma1" /></a> </p>
-
----
-
-### 🧑‍💻 About Me
-
-- 🎓 **Graduated Computer Science Engineer** from Galgotias University  
-- 🐍 Python backend developer with strong skills in Flask & REST API development  
-- 🤖 Built AI-powered systems using TensorFlow and NEAT algorithms  
-- 🌐 Interned as both a web developer and an AI/ML engineer  
-- ☁️ Certified in Cloud Foundations, Machine Learning, and SQL
-
----
-
-### 📌 Notable Projects
-
-- 🔁 **AI-Powered Game Bot (NEAT Algorithm)**  
-  Evolved AI agents with self-play reinforcement learning, improving decision-making by 70% over 50 generations
-
-- 🔐 **JWT Auth Server using Flask**  
-  Full-featured authentication server with token generation, role-based access, and password hashing
-
-- 🤖 **Cookie Clicker AI Bot**  
-  Automated game interaction using Python and logic-based automation for IFERP event challenge
-
----
-
-### 🏆 Achievements
-
-- 🏁 Finalist - Line Following Bot @ **IIT Delhi**  
-- 🚁 Prototype Developer - Rescue Drone @ **IIT Bombay Techfest**  
-- 🧠 AI Challenge Winner - Automated Bot @ **IFERP LJ University**
-
----
-
-### 📚 Certifications
-
-- ✅ **C Programming Fundamentals** - University of California, Santa Cruz  
-- ✅ **Cloud Foundations** - AWS Academy  
-- ✅ **Machine Learning Foundations** - AWS Academy  
-- ✅ **Database Design & SQL Programming** - Oracle Academy
-
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/shlok-verma-2a9693179" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/shlok-verma-2a9693179" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://shlokverma.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://linkedin.com/in/shlok-verma-dev" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
-<h3 align="left">🛠️ Languages & Tools I Use:</h3>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=shlokverma1&label=Profile%20views&color=0e75b6&style=flat-square" alt="shlokverma1" /> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=shlokverma1&theme=oceanic&no-bg=true&margin-w=15" alt="shlokverma1 trophies" />
+  </a> 
+</p>
 
-<table>
-  <tr>
-    <td align="center" width="80">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" /><br>Python
-    </td>
-    <td align="center" width="80">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" width="40" height="40" alt="Flask" /><br>Flask
-    </td>
-    <td align="center" width="80">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C" /><br>C
-    </td>
-    <td align="center" width="80">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" /><br>C++
-    </td>
-    <td align="center" width="80">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java" /><br>Java
-    </td>
-    <td align="center" width="80">
-      <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40" alt="Bash" /><br>Bash
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="80">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML" /><br>HTML5
-    </td>
-    <td align="center" width="80">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3" /><br>CSS3
-    </td>
-    <td align="center" width="80">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git" /><br>Git
-    </td>
-    <td align="center" width="80">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL" /><br>MySQL
-    </td>
-    <td align="center" width="80">
-      <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" height="40" alt="SQLite" /><br>SQLite
-    </td>
-    <td align="center" width="80">
-      <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40" height="40" alt="AWS" /><br>AWS
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="80">
-      <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40" alt="Arduino" /><br>Arduino
-    </td>
-    <td align="center" width="80">
-      <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" width="40" height="40" alt="Selenium" /><br>Selenium
-    </td>
-    <td align="center" width="80">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas" /><br>Pandas
-    </td>
-    <td align="center" width="80">
-      <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40" alt="TensorFlow" /><br>TensorFlow
-    </td>
-    <td align="center" width="80">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" /><br>Linux
-    </td>
-  </tr>
-</table>
+---
 
+### 🚀 Executive Summary
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shlokverma1&show_icons=true&locale=en&layout=compact" alt="shlokverma1" /></p>
+Highly technical **Full-Stack Developer and AI Engineer** specializing in building scalable Python backends (Flask), robust REST APIs, and intelligent systems utilizing TensorFlow and neuroevolutionary algorithms (NEAT). Proven capability in transitioning complex requirements into high-performance, deployable code.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shlokverma1&show_icons=true&locale=en" alt="shlokverma1" /></p>
+* 🔭 **Current Focus:** Optimizing high-latency data ingestion pipelines for media aggregation platforms.
+* 🛠️ **Core Expertise:** Python, Flask, AI/ML (TensorFlow, NEAT), Cloud Infrastructure (AWS), SQL/NoSQL Architecture.
+* 🎓 Computer Science Engineer - Galgotias University.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shlokverma1&" alt="shlokverma1" /></p>
+---
+
+### 🛠️ Technology Stack & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+  <br />
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <br />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
+</p>
+
+---
+
+### 📌 Featured Engineering Projects
+
+* 🤖 **Autonomous AI Game Agent (NEAT Algorithm)**
+    * *Core:* Implementation of NeuroEvolution of Augmenting Topologies.
+    * *Result:* Developed self-learning agents that improved decision-making efficiency by 70% over 50 generations via reinforcement self-play.
+
+* 🔐 **Enterprise JWT Authentication Server**
+    * *Core:* Secure Python/Flask backend.
+    * *Result:* Engineered a full-featured auth server supporting role-based access control (RBAC), password hashing (Bcrypt), and secure token lifecycle management.
+
+* 🎬 **Movie_Mate: Content Discovery Engine**
+    * *Core:* API Aggregator, Python/Flask.
+    * *Result:* Built a high-performance backend optimizing third-party API payloads for near-instant movie metadata retrieval and rendering.
+
+---
+
+### 🏆 Technical Accomplishments & Certifications
+
+**Achievements:**
+* 🏁 Finalist - Autonomous Line Following Robotics @ **IIT Delhi**
+* 🚁 Prototype Developer - Search & Rescue Drone @ **IIT Bombay Techfest**
+* 🧠 Grand Prize Winner - AI Challenge (Automated Game Bot) @ **IFERP**
+
+**Certifications:**
+* ✅ **AWS Academy Graduate** - Cloud Foundations & Machine Learning Foundations
+* ✅ **Oracle Academy** - Database Design & SQL Programming
+* ✅ **University of California, Santa Cruz** - C Programming Fundamentals
+
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shlokverma1&show_icons=true&locale=en&layout=compact&theme=oceanic&border_radius=10" alt="shlokverma1 top langs" />
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shlokverma1&show_icons=true&locale=en&theme=oceanic&border_radius=10" alt="shlokverma1 stats" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shlokverma1&theme=oceanic&border_radius=10" alt="shlokverma1 streak" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Let's%20Build%20Something-%230E75B6?style=for-the-badge" alt="Let's Build" />
+</p>
