@@ -91,16 +91,19 @@ Highly technical **Full-Stack Developer and AI Engineer** specializing in buildi
 
 ### 📊 GitHub Analytics
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shlokverma1&show_icons=true&locale=en&layout=compact&theme=oceanic&border_radius=10" alt="shlokverma1 top langs" />
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shlokverma1&show_icons=true&locale=en&theme=oceanic&border_radius=10" alt="shlokverma1 stats" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shlokverma1&theme=oceanic&border_radius=10" alt="shlokverma1 streak" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shlokverma1&show_icons=true&locale=en&layout=compact&theme=oceanic&border_radius=10" alt="Top Languages" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shlokverma1&show_icons=true&locale=en&theme=oceanic&border_radius=10" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=shlokverma1&theme=oceanic&border_radius=10" alt="GitHub Streak" />
+</div>
 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Let's%20Build%20Something-%230E75B6?style=for-the-badge" alt="Let's Build" />
+  <a href="https://shlokverma.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Let's%20Build%20Something-%230E75B6?style=for-the-badge" alt="Let's Build" />
+  </a>
 </p>
